@@ -1,0 +1,232 @@
+body{
+    background-color: rgb(203, 235, 255);
+    justify-content: center;
+    margin:0px;
+}
+.name{
+    text-align: center;
+    margin-top: 350px;
+    margin-bottom: 0px;
+    font-family: 'Courgette', cursive;
+    font-size:100px;
+    color:rgb(38, 87, 132);
+}
+.student{
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-size:45px;
+    color:rgb(38, 87, 132);
+    margin-top:0px;
+    margin-bottom:400px;
+}
+div{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+.hello{
+    font-family: 'ABeeZee', sans-serif;
+    text-align: center;
+    color:rgb(38, 87, 132);
+    font-size:50px;
+    margin-bottom: 20px;
+    margin-top:30px;
+}
+.human{
+    width: 150px;
+    height:180px;
+}
+.description{
+    font-family: 'Abel', sans-serif;
+    font-size:20px;
+    margin-top:30px;
+    margin-bottom:70px;
+}
+.dot1{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+}
+.dot2{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+    margin-left:10px;
+}
+.dot3{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+    margin-left:10px;
+}
+.dot4{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+    margin-left:10px;
+}
+.dot5{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+    margin-left:10px;
+}
+.skills{
+    font-family: 'ABeeZee', sans-serif;
+    text-align: center;
+    color:rgb(38, 87, 132);
+    font-size:50px;
+    margin-bottom: 50px;
+    margin-top:50px;
+}
+.pag3{
+    background-color:rgb(233, 232, 232);
+}
+.code{
+    width: 150px;
+    height:150px;
+    margin-left:30px;
+    margin-right:0px;
+}
+.imagine{
+    background-color:rgb(233, 232, 232);
+    justify-content: left;
+}
+.design{
+    background-color:rgb(233, 232, 232);
+}
+.codinglng{
+    font-family: 'ABeeZee', sans-serif;
+    color:rgb(52, 117, 176);
+    font-size:35px;
+    margin-left:15px;
+    margin-top:0px;
+}
+.descoding{
+    font-family: 'Abel', sans-serif;
+    margin-top:-100px;
+    margin-left:195px;
+    font-size:30px;
+    margin-bottom:30px;
+}
+.secv2{
+    background-color:rgb(233, 232, 232);
+    justify-content: left;
+}
+.secv2copie{
+    background-color:rgb(233, 232, 232);
+}
+.code2{
+    width: 150px;
+    height:150px;
+    margin-right:30px;
+    margin-bottom:50px;
+}
+.about{
+    font-family: 'ABeeZee', sans-serif;
+    color:rgb(52, 117, 176);
+    font-size:35px;
+    margin-left:40px;
+    margin-top:-5px;
+    width:170px;
+    height:0px;
+}
+.secv3{
+    background-color:rgb(233, 232, 232);
+}
+.desabout{
+    font-family: 'Abel', sans-serif;
+    font-size:30px;
+    margin-top:40px;
+    margin-left:-170px;
+    margin-bottom:50px;
+}
+.ultima{
+    background-color: white;
+}
+.dot6{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+    margin-top:40px;
+}
+.dot7{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+    margin-left:10px;
+    margin-top:40px;
+}
+.dot8{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+    margin-left:10px;
+    margin-top:40px;
+}
+.dot9{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+    margin-left:10px;
+    margin-top:40px;
+}
+.dot10{
+    width:20px;
+    height:20px;
+    margin-bottom:70px;
+    margin-left:10px;
+    margin-top:40px;
+}
+.intouch{
+    background-color: white;
+}
+.getin{
+    font-family: 'ABeeZee', sans-serif;
+    text-align: center;
+    color:rgb(38, 87, 132);
+    font-size:50px;
+    margin-top:-20px;
+}
+.mybutton{
+    background-color:rgb(229, 80, 30);
+    font-size:30px;
+    text-align: center;
+    width:250px;
+    height:50px;
+    border:none;
+    color:aliceblue;
+    margin-bottom:50px;
+    border-radius:25px;
+    cursor:pointer;
+}
+.linkuri{
+    background-color: rgb(203, 235, 255);
+}
+.linkedin{
+    font-family: 'ABeeZee', sans-serif;
+    font-size:30px;
+    margin-top:100px;
+    margin-left:30px;
+    color:rgb(33, 75, 114);
+}
+.instagram{
+    font-family: 'ABeeZee', sans-serif;
+    font-size:30px;
+    margin-top:100px;
+    margin-left:30px;
+    color:rgb(33, 75, 114);
+}
+.github{
+    font-family: 'ABeeZee', sans-serif;
+    font-size:30px;
+    margin-top:100px;
+    margin-left:30px;
+    color:rgb(33, 75, 114);
+}
+.costi{
+    font-family: 'Abel', sans-serif;
+    font-size:20px;
+    margin-top:40px;
+    text-align: center;
+}
